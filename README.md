@@ -1,4 +1,4 @@
 # HRMS.PostgreSQL
 
-![image](https://github.com/merdemli/HRMS.PostgreSQL/blob/main/Updated_ERD_Diagram.png)
+![image](https://github.com/merdemli/HRMS.PostgreSQL/blob/main/ERD_diagram_version3.png)
  
